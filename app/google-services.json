@@ -1,0 +1,173 @@
+{
+  "project_info": {
+    "project_number": "281635926570",
+    "project_id": "nyrde-342022",
+    "storage_bucket": "nyrde-342022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281635926570:android:f4a2631c398349becf0953",
+        "android_client_info": {
+          "package_name": "com.ezzy.sendbird"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTMHgTJ_8VmKdwVAltE-wt5mvfFODMc0c"
+        },
+        {
+          "current_key": "AIzaSyC1Da2cj2BjUr5MoIvM9nJuGYYvbRdP5Cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281635926570-b4pjgb3a9t9pb6l7ahd0rqkvc93aasf8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "281635926570-4v47m56pq28tvpehe5s6sfhj2cg9ure7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nryde.rider",
+                "app_store_id": "1624903145"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281635926570:android:85d3b5f2356dfa31cf0953",
+        "android_client_info": {
+          "package_name": "com.nryde.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281635926570-26auv2spotjtas007nc204vbs6jne30j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nryde.driver",
+            "certificate_hash": "0550d53ad01922efd94cdee4777ea0b795192edc"
+          }
+        },
+        {
+          "client_id": "281635926570-aqsskrjou7ga1qskbhdvr7chmdtioesv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nryde.driver",
+            "certificate_hash": "32f8d4dba4608a520a2f13161c9b86f59706099f"
+          }
+        },
+        {
+          "client_id": "281635926570-p32nmla9hg5rp7gafi9e0hrkajsrg6op.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nryde.driver",
+            "certificate_hash": "98f5bd0920d7c93b2c57ae4711a5ae19b43f4663"
+          }
+        },
+        {
+          "client_id": "281635926570-pcd0jr557uh3dejoapthq5nmb58gp731.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nryde.driver",
+            "certificate_hash": "60df1ca24a3453229bcf54c849483b37d818a2e1"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTMHgTJ_8VmKdwVAltE-wt5mvfFODMc0c"
+        },
+        {
+          "current_key": "AIzaSyC1Da2cj2BjUr5MoIvM9nJuGYYvbRdP5Cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281635926570-b4pjgb3a9t9pb6l7ahd0rqkvc93aasf8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "281635926570-4v47m56pq28tvpehe5s6sfhj2cg9ure7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nryde.rider",
+                "app_store_id": "1624903145"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281635926570:android:a9bf3f5e790d6a57cf0953",
+        "android_client_info": {
+          "package_name": "com.nryde.rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281635926570-5405qrd6kc6nm9hl50lbrfboornk0g4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nryde.rider",
+            "certificate_hash": "ff73ef3ae8c2828c54d44d485b1f9b2ae82aaee5"
+          }
+        },
+        {
+          "client_id": "281635926570-vdl5l3r9cnsv508tfbi519o1kq1a3rpv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nryde.rider",
+            "certificate_hash": "60df1ca24a3453229bcf54c849483b37d818a2e1"
+          }
+        },
+        {
+          "client_id": "281635926570-vk48qur2mqhbpdc1plkpht2dn8s55h1u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nryde.rider",
+            "certificate_hash": "a6dd16a02dc62cc0e92ccfcfcc849acef25d485c"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTMHgTJ_8VmKdwVAltE-wt5mvfFODMc0c"
+        },
+        {
+          "current_key": "AIzaSyC1Da2cj2BjUr5MoIvM9nJuGYYvbRdP5Cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281635926570-b4pjgb3a9t9pb6l7ahd0rqkvc93aasf8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "281635926570-4v47m56pq28tvpehe5s6sfhj2cg9ure7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nryde.rider",
+                "app_store_id": "1624903145"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
